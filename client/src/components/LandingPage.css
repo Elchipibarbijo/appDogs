@@ -1,0 +1,13 @@
+body {
+    background-image: url(../img/Landing.jpg);
+    background-size: cover ;
+    /* background-repeat:no-repeat ; */
+    background-attachment: fixed;
+}
+
+button{
+    background-color: transparent ;
+    font-weight:bold;
+    color: #444;
+    
+}
